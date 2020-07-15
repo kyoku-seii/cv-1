@@ -69,7 +69,7 @@ let step = () => {
         window.scrollTo(0, 99999)
         html.scrollTo(0, 9999)
         step()
-    }, 50)
+    }, 30)
 }
 step()
 
